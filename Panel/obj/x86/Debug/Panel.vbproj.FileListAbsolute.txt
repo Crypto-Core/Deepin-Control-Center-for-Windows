@@ -1,0 +1,12 @@
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\bin\Debug\Panel.exe
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\bin\Debug\Panel.pdb
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\bin\Debug\Panel.xml
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.Form1.resources
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.Resources.resources
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.vbproj.GenerateResource.Cache
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.exe
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.xml
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.pdb
+C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.start.resources
+C:\Users\Isa\Documents\Visual Studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.menu_.resources
+C:\Users\Isa\Documents\Visual Studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.personal.resources
