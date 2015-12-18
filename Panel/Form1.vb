@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class main_frm
     Dim cnt As Integer = 1
     Dim sliding As Boolean = False
     Dim active As Boolean = False
@@ -58,7 +58,7 @@
         Else
 
         End If
-        
+
     End Sub
 
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mousepos.Tick
@@ -71,52 +71,5 @@
 
             End If
         End If
-    End Sub
-    Private Sub PictureBox2_MouseHover(ByVal sender As Object, ByVal e As System.EventArgs)
-
-    End Sub
-    Private Sub PictureBox2_MouseLeave(ByVal sender As Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub Button1_MouseDown(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs)
-
-    End Sub
-
-    Private Sub Button1_MouseHover(ByVal sender As Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub Button1_MouseLeave(ByVal sender As Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub Button1_MouseUp(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs)
-
-    End Sub
-
-    Private Sub Button2_MouseDown(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs)
-
-    End Sub
-
-    Private Sub Button2_MouseHover(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-
-    End Sub
-
-    Private Sub Button2_MouseLeave(ByVal sender As Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub Button2_MouseUp(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs)
-
-    End Sub
-
-    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub Button3_MouseDown(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs)
-
     End Sub
 End Class

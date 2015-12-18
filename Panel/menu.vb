@@ -1,8 +1,8 @@
 ﻿Public Class menu_
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        Form1.Controls.Clear()
-        Form1.Controls.Add(start.Panel1)
+        main_frm.Controls.Clear()
+        main_frm.Controls.Add(start.Panel1)
         start.Panel1.Show()
         start.slide.Enabled = True
     End Sub

@@ -10,3 +10,15 @@ C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Pan
 C:\Users\Isa\documents\visual studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.start.resources
 C:\Users\Isa\Documents\Visual Studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.menu_.resources
 C:\Users\Isa\Documents\Visual Studio 2010\Projects\Panel\Panel\obj\x86\Debug\Panel.personal.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.exe
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.xml
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.pdb
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\bin\Debug\Panel.exe
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\bin\Debug\Panel.pdb
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\bin\Debug\Panel.xml
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.main_frm.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.menu_.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.Resources.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.personal.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.start.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\Panel.vbproj.GenerateResource.Cache

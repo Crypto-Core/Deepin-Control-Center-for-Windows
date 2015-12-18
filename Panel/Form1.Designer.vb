@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class main_frm
     Inherits System.Windows.Forms.Form
 
     'Das Formular überschreibt den Löschvorgang, um die Komponentenliste zu bereinigen.
@@ -41,7 +41,7 @@ Partial Class Form1
         Me.mousepos.Enabled = True
         Me.mousepos.Interval = 1
         '
-        'Form1
+        'main_frm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -49,7 +49,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(360, 618)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.MaximizeBox = False
-        Me.Name = "Form1"
+        Me.Name = "main_frm"
         Me.Opacity = 0.98R
         Me.ShowIcon = False
         Me.ShowInTaskbar = False

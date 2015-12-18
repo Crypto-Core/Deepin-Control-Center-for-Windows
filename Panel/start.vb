@@ -67,8 +67,8 @@
             Button15.Visible = False
             If Panel3.Location.Y + Panel3.Size.Height < 0 Then
                 slide.Enabled = False
-                Form1.Controls.Clear()
-                Form1.Controls.Add(menu_.Panel1)
+                main_frm.Controls.Clear()
+                main_frm.Controls.Add(menu_.Panel1)
                 menu_.Panel1.Show()
                 hide_ = True
             End If
@@ -107,12 +107,4 @@
         menu_.Button2.Image = My.Resources.account_press
     End Sub
 
-    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
-
-
-    End Sub
-
-    Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox2.Click
-
-    End Sub
 End Class
