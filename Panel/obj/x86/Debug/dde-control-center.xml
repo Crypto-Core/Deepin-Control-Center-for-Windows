@@ -2,11 +2,11 @@
 <doc>
 <assembly>
 <name>
-Panel
+dde-control-center
 </name>
 </assembly>
 <members>
-<member name="T:Panel.DrawHelpers">
+<member name="T:control_center.DrawHelpers">
 	<summary>
  LogIn GDI+ Theme
  Creator: Xertz (HF)
@@ -18,192 +18,192 @@ Panel
  For any bugs / errors, PM me.
  </summary>
 	<remarks></remarks>
-</member><member name="P:Panel.My.Resources.Resources.ResourceManager">
+</member><member name="P:control_center.My.Resources.Resources.ResourceManager">
 	<summary>
   Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.Culture">
+</member><member name="P:control_center.My.Resources.Resources.Culture">
 	<summary>
   Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources._1448865800_User">
+</member><member name="P:control_center.My.Resources.Resources._1448865800_User">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_hover">
+</member><member name="P:control_center.My.Resources.Resources.account_hover">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_hover1">
+</member><member name="P:control_center.My.Resources.Resources.account_hover1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_normal">
+</member><member name="P:control_center.My.Resources.Resources.account_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_normal1">
+</member><member name="P:control_center.My.Resources.Resources.account_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_press">
+</member><member name="P:control_center.My.Resources.Resources.account_press">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.account_press1">
+</member><member name="P:control_center.My.Resources.Resources.account_press1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.bluetooth_normal">
+</member><member name="P:control_center.My.Resources.Resources.bluetooth_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.date_time_normal">
+</member><member name="P:control_center.My.Resources.Resources.date_time_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.date_time_normal1">
+</member><member name="P:control_center.My.Resources.Resources.date_time_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.default_applications_hover">
+</member><member name="P:control_center.My.Resources.Resources.default_applications_hover">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.default_applications_normal">
+</member><member name="P:control_center.My.Resources.Resources.default_applications_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.default_applications_normal1">
+</member><member name="P:control_center.My.Resources.Resources.default_applications_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.default_applications_press">
+</member><member name="P:control_center.My.Resources.Resources.default_applications_press">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.display_hover">
+</member><member name="P:control_center.My.Resources.Resources.display_hover">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.display_normal">
+</member><member name="P:control_center.My.Resources.Resources.display_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.display_normal1">
+</member><member name="P:control_center.My.Resources.Resources.display_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.display_press">
+</member><member name="P:control_center.My.Resources.Resources.display_press">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.grub_normal">
+</member><member name="P:control_center.My.Resources.Resources.grub_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.grub_normal1">
+</member><member name="P:control_center.My.Resources.Resources.grub_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.home_hover">
+</member><member name="P:control_center.My.Resources.Resources.home_hover">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.home_normal">
+</member><member name="P:control_center.My.Resources.Resources.home_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.home_press">
+</member><member name="P:control_center.My.Resources.Resources.home_press">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.keyboard_normal">
+</member><member name="P:control_center.My.Resources.Resources.keyboard_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.keyboard_normal1">
+</member><member name="P:control_center.My.Resources.Resources.keyboard_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.mouse_touchpad_normal">
+</member><member name="P:control_center.My.Resources.Resources.mouse_touchpad_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.mouse_touchpad_normal1">
+</member><member name="P:control_center.My.Resources.Resources.mouse_touchpad_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.network_normal">
+</member><member name="P:control_center.My.Resources.Resources.network_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.network_normal1">
+</member><member name="P:control_center.My.Resources.Resources.network_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.personalization_normal">
+</member><member name="P:control_center.My.Resources.Resources.personalization_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.personalization_normal1">
+</member><member name="P:control_center.My.Resources.Resources.personalization_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.power_normal">
+</member><member name="P:control_center.My.Resources.Resources.power_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.power_normal1">
+</member><member name="P:control_center.My.Resources.Resources.power_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.remoting_normal">
+</member><member name="P:control_center.My.Resources.Resources.remoting_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shortcuts_normal">
+</member><member name="P:control_center.My.Resources.Resources.shortcuts_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shortcuts_normal1">
+</member><member name="P:control_center.My.Resources.Resources.shortcuts_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shutdown_bg">
+</member><member name="P:control_center.My.Resources.Resources.shutdown_bg">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shutdown_hover">
+</member><member name="P:control_center.My.Resources.Resources.shutdown_hover">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shutdown_normal">
+</member><member name="P:control_center.My.Resources.Resources.shutdown_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.shutdown_normal1">
+</member><member name="P:control_center.My.Resources.Resources.shutdown_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.sound_normal">
+</member><member name="P:control_center.My.Resources.Resources.sound_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.sound_normal1">
+</member><member name="P:control_center.My.Resources.Resources.sound_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.system_info_normal">
+</member><member name="P:control_center.My.Resources.Resources.system_info_normal">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="P:Panel.My.Resources.Resources.system_info_normal1">
+</member><member name="P:control_center.My.Resources.Resources.system_info_normal1">
 	<summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
-</member><member name="T:Panel.My.Resources.Resources">
+</member><member name="T:control_center.My.Resources.Resources">
 	<summary>
   Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
 </summary>

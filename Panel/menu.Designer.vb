@@ -95,7 +95,7 @@ Partial Class menu_
         Me.Button15.FlatAppearance.BorderSize = 0
         Me.Button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button15.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button15.Image = Global.Panel.My.Resources.Resources.shutdown_normal1
+        Me.Button15.Image = Global.control_center.My.Resources.Resources.shutdown_normal1
         Me.Button15.Location = New System.Drawing.Point(8, 606)
         Me.Button15.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button15.Name = "Button15"
@@ -111,7 +111,7 @@ Partial Class menu_
         Me.Button14.FlatAppearance.BorderSize = 0
         Me.Button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button14.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button14.Image = Global.Panel.My.Resources.Resources.system_info_normal1
+        Me.Button14.Image = Global.control_center.My.Resources.Resources.system_info_normal1
         Me.Button14.Location = New System.Drawing.Point(8, 563)
         Me.Button14.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button14.Name = "Button14"
@@ -127,7 +127,7 @@ Partial Class menu_
         Me.Button13.FlatAppearance.BorderSize = 0
         Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button13.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button13.Image = Global.Panel.My.Resources.Resources.grub_normal1
+        Me.Button13.Image = Global.control_center.My.Resources.Resources.grub_normal1
         Me.Button13.Location = New System.Drawing.Point(8, 520)
         Me.Button13.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button13.Name = "Button13"
@@ -143,7 +143,7 @@ Partial Class menu_
         Me.Button12.FlatAppearance.BorderSize = 0
         Me.Button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button12.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button12.Image = Global.Panel.My.Resources.Resources.shortcuts_normal1
+        Me.Button12.Image = Global.control_center.My.Resources.Resources.shortcuts_normal1
         Me.Button12.Location = New System.Drawing.Point(8, 477)
         Me.Button12.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button12.Name = "Button12"
@@ -159,7 +159,7 @@ Partial Class menu_
         Me.Button11.FlatAppearance.BorderSize = 0
         Me.Button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button11.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button11.Image = Global.Panel.My.Resources.Resources.keyboard_normal1
+        Me.Button11.Image = Global.control_center.My.Resources.Resources.keyboard_normal1
         Me.Button11.Location = New System.Drawing.Point(8, 434)
         Me.Button11.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button11.Name = "Button11"
@@ -175,7 +175,7 @@ Partial Class menu_
         Me.Button10.FlatAppearance.BorderSize = 0
         Me.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button10.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button10.Image = Global.Panel.My.Resources.Resources.mouse_touchpad_normal1
+        Me.Button10.Image = Global.control_center.My.Resources.Resources.mouse_touchpad_normal1
         Me.Button10.Location = New System.Drawing.Point(8, 391)
         Me.Button10.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button10.Name = "Button10"
@@ -191,7 +191,7 @@ Partial Class menu_
         Me.Button9.FlatAppearance.BorderSize = 0
         Me.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button9.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button9.Image = Global.Panel.My.Resources.Resources.power_normal1
+        Me.Button9.Image = Global.control_center.My.Resources.Resources.power_normal1
         Me.Button9.Location = New System.Drawing.Point(8, 348)
         Me.Button9.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button9.Name = "Button9"
@@ -207,7 +207,7 @@ Partial Class menu_
         Me.Button8.FlatAppearance.BorderSize = 0
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button8.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button8.Image = Global.Panel.My.Resources.Resources.date_time_normal1
+        Me.Button8.Image = Global.control_center.My.Resources.Resources.date_time_normal1
         Me.Button8.Location = New System.Drawing.Point(8, 305)
         Me.Button8.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button8.Name = "Button8"
@@ -223,7 +223,7 @@ Partial Class menu_
         Me.Button7.FlatAppearance.BorderSize = 0
         Me.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button7.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button7.Image = Global.Panel.My.Resources.Resources.sound_normal1
+        Me.Button7.Image = Global.control_center.My.Resources.Resources.sound_normal1
         Me.Button7.Location = New System.Drawing.Point(8, 262)
         Me.Button7.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button7.Name = "Button7"
@@ -239,7 +239,7 @@ Partial Class menu_
         Me.Button6.FlatAppearance.BorderSize = 0
         Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button6.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button6.Image = Global.Panel.My.Resources.Resources.network_normal1
+        Me.Button6.Image = Global.control_center.My.Resources.Resources.network_normal1
         Me.Button6.Location = New System.Drawing.Point(8, 219)
         Me.Button6.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button6.Name = "Button6"
@@ -255,7 +255,7 @@ Partial Class menu_
         Me.Button5.FlatAppearance.BorderSize = 0
         Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button5.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button5.Image = Global.Panel.My.Resources.Resources.personalization_normal1
+        Me.Button5.Image = Global.control_center.My.Resources.Resources.personalization_normal1
         Me.Button5.Location = New System.Drawing.Point(8, 176)
         Me.Button5.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button5.Name = "Button5"
@@ -271,7 +271,7 @@ Partial Class menu_
         Me.Button4.FlatAppearance.BorderSize = 0
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button4.Image = Global.Panel.My.Resources.Resources.default_applications_normal1
+        Me.Button4.Image = Global.control_center.My.Resources.Resources.default_applications_normal1
         Me.Button4.Location = New System.Drawing.Point(8, 133)
         Me.Button4.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button4.Name = "Button4"
@@ -287,7 +287,7 @@ Partial Class menu_
         Me.Button3.FlatAppearance.BorderSize = 0
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button3.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button3.Image = Global.Panel.My.Resources.Resources.display_normal1
+        Me.Button3.Image = Global.control_center.My.Resources.Resources.display_normal1
         Me.Button3.Location = New System.Drawing.Point(8, 90)
         Me.Button3.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button3.Name = "Button3"
@@ -303,7 +303,7 @@ Partial Class menu_
         Me.Button2.FlatAppearance.BorderSize = 0
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button2.Image = Global.Panel.My.Resources.Resources.account_normal
+        Me.Button2.Image = Global.control_center.My.Resources.Resources.account_normal
         Me.Button2.Location = New System.Drawing.Point(8, 47)
         Me.Button2.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button2.Name = "Button2"
@@ -319,7 +319,7 @@ Partial Class menu_
         Me.Button1.FlatAppearance.BorderSize = 0
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button1.Image = Global.Panel.My.Resources.Resources.home_normal
+        Me.Button1.Image = Global.control_center.My.Resources.Resources.home_normal
         Me.Button1.Location = New System.Drawing.Point(8, 4)
         Me.Button1.MaximumSize = New System.Drawing.Size(93, 64)
         Me.Button1.Name = "Button1"

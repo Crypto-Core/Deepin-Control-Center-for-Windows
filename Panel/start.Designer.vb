@@ -132,7 +132,7 @@ Partial Class start
         Me.Button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button15.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button15.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button15.Image = Global.Panel.My.Resources.Resources.system_info_normal
+        Me.Button15.Image = Global.control_center.My.Resources.Resources.system_info_normal
         Me.Button15.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button15.Location = New System.Drawing.Point(233, 461)
         Me.Button15.MaximumSize = New System.Drawing.Size(93, 64)
@@ -151,7 +151,7 @@ Partial Class start
         Me.Button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button14.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button14.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button14.Image = Global.Panel.My.Resources.Resources.grub_normal
+        Me.Button14.Image = Global.control_center.My.Resources.Resources.grub_normal
         Me.Button14.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button14.Location = New System.Drawing.Point(134, 461)
         Me.Button14.MaximumSize = New System.Drawing.Size(93, 64)
@@ -170,7 +170,7 @@ Partial Class start
         Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button13.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button13.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button13.Image = Global.Panel.My.Resources.Resources.remoting_normal
+        Me.Button13.Image = Global.control_center.My.Resources.Resources.remoting_normal
         Me.Button13.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button13.Location = New System.Drawing.Point(35, 461)
         Me.Button13.MaximumSize = New System.Drawing.Size(93, 64)
@@ -189,7 +189,7 @@ Partial Class start
         Me.Button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button12.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button12.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button12.Image = Global.Panel.My.Resources.Resources.shortcuts_normal
+        Me.Button12.Image = Global.control_center.My.Resources.Resources.shortcuts_normal
         Me.Button12.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button12.Location = New System.Drawing.Point(233, 385)
         Me.Button12.MaximumSize = New System.Drawing.Size(93, 64)
@@ -208,7 +208,7 @@ Partial Class start
         Me.Button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button11.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button11.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button11.Image = Global.Panel.My.Resources.Resources.keyboard_normal
+        Me.Button11.Image = Global.control_center.My.Resources.Resources.keyboard_normal
         Me.Button11.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button11.Location = New System.Drawing.Point(134, 385)
         Me.Button11.MaximumSize = New System.Drawing.Size(93, 64)
@@ -227,7 +227,7 @@ Partial Class start
         Me.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button10.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button10.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button10.Image = Global.Panel.My.Resources.Resources.mouse_touchpad_normal
+        Me.Button10.Image = Global.control_center.My.Resources.Resources.mouse_touchpad_normal
         Me.Button10.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button10.Location = New System.Drawing.Point(35, 385)
         Me.Button10.MaximumSize = New System.Drawing.Size(93, 64)
@@ -246,7 +246,7 @@ Partial Class start
         Me.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button9.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button9.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button9.Image = Global.Panel.My.Resources.Resources.power_normal
+        Me.Button9.Image = Global.control_center.My.Resources.Resources.power_normal
         Me.Button9.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button9.Location = New System.Drawing.Point(233, 309)
         Me.Button9.MaximumSize = New System.Drawing.Size(93, 64)
@@ -265,7 +265,7 @@ Partial Class start
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button8.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button8.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button8.Image = Global.Panel.My.Resources.Resources.date_time_normal
+        Me.Button8.Image = Global.control_center.My.Resources.Resources.date_time_normal
         Me.Button8.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button8.Location = New System.Drawing.Point(134, 309)
         Me.Button8.MaximumSize = New System.Drawing.Size(93, 64)
@@ -284,7 +284,7 @@ Partial Class start
         Me.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button7.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button7.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button7.Image = Global.Panel.My.Resources.Resources.sound_normal
+        Me.Button7.Image = Global.control_center.My.Resources.Resources.sound_normal
         Me.Button7.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button7.Location = New System.Drawing.Point(35, 309)
         Me.Button7.MaximumSize = New System.Drawing.Size(93, 64)
@@ -303,7 +303,7 @@ Partial Class start
         Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button6.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button6.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button6.Image = Global.Panel.My.Resources.Resources.bluetooth_normal
+        Me.Button6.Image = Global.control_center.My.Resources.Resources.bluetooth_normal
         Me.Button6.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button6.Location = New System.Drawing.Point(233, 233)
         Me.Button6.MaximumSize = New System.Drawing.Size(93, 64)
@@ -322,7 +322,7 @@ Partial Class start
         Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button5.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button5.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button5.Image = Global.Panel.My.Resources.Resources.network_normal
+        Me.Button5.Image = Global.control_center.My.Resources.Resources.network_normal
         Me.Button5.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button5.Location = New System.Drawing.Point(134, 233)
         Me.Button5.MaximumSize = New System.Drawing.Size(93, 64)
@@ -341,7 +341,7 @@ Partial Class start
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button4.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button4.Image = Global.Panel.My.Resources.Resources.personalization_normal
+        Me.Button4.Image = Global.control_center.My.Resources.Resources.personalization_normal
         Me.Button4.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button4.Location = New System.Drawing.Point(35, 233)
         Me.Button4.MaximumSize = New System.Drawing.Size(93, 64)
@@ -360,7 +360,7 @@ Partial Class start
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button3.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button3.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button3.Image = Global.Panel.My.Resources.Resources.default_applications_normal
+        Me.Button3.Image = Global.control_center.My.Resources.Resources.default_applications_normal
         Me.Button3.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button3.Location = New System.Drawing.Point(233, 157)
         Me.Button3.MaximumSize = New System.Drawing.Size(93, 64)
@@ -379,7 +379,7 @@ Partial Class start
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button2.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button2.Image = Global.Panel.My.Resources.Resources.display_normal
+        Me.Button2.Image = Global.control_center.My.Resources.Resources.display_normal
         Me.Button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button2.Location = New System.Drawing.Point(134, 157)
         Me.Button2.MaximumSize = New System.Drawing.Size(93, 64)
@@ -398,7 +398,7 @@ Partial Class start
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Font = New System.Drawing.Font("Segoe UI", 8.25!)
         Me.Button1.ForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button1.Image = Global.Panel.My.Resources.Resources.account_normal
+        Me.Button1.Image = Global.control_center.My.Resources.Resources.account_normal
         Me.Button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button1.Location = New System.Drawing.Point(35, 157)
         Me.Button1.MaximumSize = New System.Drawing.Size(93, 64)
@@ -413,7 +413,7 @@ Partial Class start
         'Panel2
         '
         Me.Panel2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.Panel2.BackgroundImage = Global.Panel.My.Resources.Resources.shutdown_bg
+        Me.Panel2.BackgroundImage = Global.control_center.My.Resources.Resources.shutdown_bg
         Me.Panel2.Controls.Add(Me.PictureBox2)
         Me.Panel2.Location = New System.Drawing.Point(0, 532)
         Me.Panel2.Name = "Panel2"
@@ -423,7 +423,7 @@ Partial Class start
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
-        Me.PictureBox2.Image = Global.Panel.My.Resources.Resources.shutdown_normal
+        Me.PictureBox2.Image = Global.control_center.My.Resources.Resources.shutdown_normal
         Me.PictureBox2.Location = New System.Drawing.Point(156, 3)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(49, 50)
