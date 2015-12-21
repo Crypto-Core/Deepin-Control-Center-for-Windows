@@ -28,7 +28,6 @@ Partial Class start
         Me.username_lb = New System.Windows.Forms.Label()
         Me.ShapeContainer2 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer()
         Me.OvalShape1 = New Microsoft.VisualBasic.PowerPacks.OvalShape()
-        Me.slide = New System.Windows.Forms.Timer(Me.components)
         Me.Button15 = New System.Windows.Forms.Button()
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button13 = New System.Windows.Forms.Button()
@@ -46,6 +45,7 @@ Partial Class start
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.slide = New System.Windows.Forms.Timer(Me.components)
         Me.Panel1.SuspendLayout()
         Me.Panel3.SuspendLayout()
         Me.Panel2.SuspendLayout()
@@ -120,10 +120,6 @@ Partial Class start
         Me.OvalShape1.Name = "OvalShape1"
         Me.OvalShape1.SelectionColor = System.Drawing.Color.Transparent
         Me.OvalShape1.Size = New System.Drawing.Size(80, 80)
-        '
-        'slide
-        '
-        Me.slide.Interval = 1
         '
         'Button15
         '
@@ -430,6 +426,10 @@ Partial Class start
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
         Me.PictureBox2.TabIndex = 0
         Me.PictureBox2.TabStop = False
+        '
+        'slide
+        '
+        Me.slide.Interval = 1
         '
         'start
         '

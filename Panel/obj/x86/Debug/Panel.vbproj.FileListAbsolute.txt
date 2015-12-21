@@ -22,3 +22,9 @@ C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\contr
 C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\dde-control-center.exe
 C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\dde-control-center.xml
 C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\dde-control-center.pdb
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.display.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.application.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.personalization.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.network.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.bluetooth.resources
+C:\Users\Isa\Desktop\Deepin-Control-Center-for-Windows\Panel\obj\x86\Debug\control_center.sound.resources

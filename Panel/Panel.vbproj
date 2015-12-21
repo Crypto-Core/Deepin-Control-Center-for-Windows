@@ -76,6 +76,24 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="application.Designer.vb">
+      <DependentUpon>application.vb</DependentUpon>
+    </Compile>
+    <Compile Include="application.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bluetooth.Designer.vb">
+      <DependentUpon>bluetooth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bluetooth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="display.Designer.vb">
+      <DependentUpon>display.vb</DependentUpon>
+    </Compile>
+    <Compile Include="display.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="main_frm.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -104,10 +122,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="network.Designer.vb">
+      <DependentUpon>network.vb</DependentUpon>
+    </Compile>
+    <Compile Include="network.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="personal.Designer.vb">
       <DependentUpon>personal.vb</DependentUpon>
     </Compile>
     <Compile Include="personal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personalization.Designer.vb">
+      <DependentUpon>personalization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="personalization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sound.Designer.vb">
+      <DependentUpon>sound.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sound.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="start.Designer.vb">
@@ -121,6 +157,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="application.resx">
+      <DependentUpon>application.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bluetooth.resx">
+      <DependentUpon>bluetooth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="display.resx">
+      <DependentUpon>display.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="main_frm.resx">
       <DependentUpon>main_frm.vb</DependentUpon>
     </EmbeddedResource>
@@ -133,8 +178,17 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="network.resx">
+      <DependentUpon>network.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="personal.resx">
       <DependentUpon>personal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personalization.resx">
+      <DependentUpon>personalization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sound.resx">
+      <DependentUpon>sound.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="start.resx">
       <DependentUpon>start.vb</DependentUpon>
@@ -285,6 +339,30 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo4.ico" />
+    <None Include="Resources\system_info_press.png" />
+    <None Include="Resources\system_info_hover.png" />
+    <None Include="Resources\grub_press.png" />
+    <None Include="Resources\grub_hover.png" />
+    <None Include="Resources\remoting_press.png" />
+    <None Include="Resources\remoting_hover.png" />
+    <None Include="Resources\shortcuts_press.png" />
+    <None Include="Resources\shortcuts_hover.png" />
+    <None Include="Resources\keyboard_press.png" />
+    <None Include="Resources\keyboard_hover.png" />
+    <None Include="Resources\mouse_touchpad_press.png" />
+    <None Include="Resources\mouse_touchpad_hover.png" />
+    <None Include="Resources\power_press.png" />
+    <None Include="Resources\power_hover.png" />
+    <None Include="Resources\date_time_press.png" />
+    <None Include="Resources\date_time_hover.png" />
+    <None Include="Resources\sound_press.png" />
+    <None Include="Resources\sound_hover.png" />
+    <None Include="Resources\bluetooth_press.png" />
+    <None Include="Resources\bluetooth_hover.png" />
+    <None Include="Resources\network_press.png" />
+    <None Include="Resources\network_hover.png" />
+    <None Include="Resources\personalization_press.png" />
+    <None Include="Resources\personalization_hover.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
